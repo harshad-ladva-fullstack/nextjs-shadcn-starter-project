@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.mouseWheelZoom": true,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "300",
+    "editor.lineHeight": 30,
+    "markdown.preview.fontFamily": "Fira Code",
+    "markdown.preview.lineHeight": 2,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.fontSize": 14   
+}
